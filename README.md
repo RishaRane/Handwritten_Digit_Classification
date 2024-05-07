@@ -7,7 +7,7 @@
 - Seaborn
 
 ### DATASET:
-- Using In-built 'CIFAR10' dataset from keras
+- Using In-built 'MNIST' dataset from keras
 
 ### ACCURAY:
 - 98% ACCURACY
